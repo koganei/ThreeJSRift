@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<script src="vendor/underscore-min.js"></script>
+<script src='vendor/three.js/build/three.min.js'></script>
+<script src='vendor/vr.js/vr.js'></script>
+<script src='vendor/vr.js/effects/OculusRiftEffect.js'></script>
+<script src='vendor/vr.js/controls/OculusRiftControls.js'></script>
+<!-- script src='vendor/rift/OculusBridge.min.js'></script-->
+<!-- script src='vendor/rift/OrbitControls.js'></script-->
+<script src='js/vrControls.js'></script>
+<script src='js/world.js'></script>
+<script src="vendor/require.js/require.js"></script>
+<script src="vendor/three.js/examples/js/Detector.js"></script>
+<script src="vendor/threex.windowresize.js"></script>
+<body style='margin: 0px; background-color: #bbbbbb; overflow: hidden;'><script>
+require([], function(){
+	// detect WebGL
+	if( !Detector.webgl ){
+		Detector.addGetWebGLMessage();
+		throw 'WebGL Not Available'
+	} 
+
+	if (!vr.isInstalled()) {
+		//statusEl.innerText = 'NPVR plugin not installed!';
+		alert('NPVR plugin not installed!');
+	}
+
+	var world = new World();
+	world.init({
+
+	});
+
+});
+</script></body>

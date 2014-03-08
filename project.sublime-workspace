@@ -1,0 +1,997 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"prototype (obj)"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"views-fi",
+				"views-field-field-images"
+			],
+			[
+				"block",
+				"block-register"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wor",
+				"worldOffset"
+			],
+			[
+				"character",
+				"characterMovement"
+			],
+			[
+				"move",
+				"movementSprites"
+			],
+			[
+				"mvemen",
+				"movementSprites"
+			],
+			[
+				"sprite",
+				"sprites"
+			],
+			[
+				"charac",
+				"character-default"
+			],
+			[
+				"_s",
+				"_surroundingTiles"
+			],
+			[
+				"rota",
+				"rotateRows"
+			],
+			[
+				"mapToCa",
+				"mapToCameraCoordinates"
+			],
+			[
+				"sur",
+				"surroundingTiles"
+			],
+			[
+				"defa",
+				"defaultMap"
+			],
+			[
+				"default",
+				"defaultTile"
+			],
+			[
+				"ran",
+				"randomNoise"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"field",
+				"field_translatable"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"numberOf",
+				"numberOfEnemiesX"
+			],
+			[
+				"S",
+				"ScreenToWorldPoint"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1075,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/world.js",
+			"settings":
+			{
+				"buffer_size": 6085,
+				"line_ending": "Windows",
+				"name": "world.js"
+			}
+		},
+		{
+			"file": "threejs_boxes_demo.html",
+			"settings":
+			{
+				"buffer_size": 9275,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/worldManager.js",
+			"settings":
+			{
+				"buffer_size": 478,
+				"line_ending": "Windows",
+				"name": "worldManager.js"
+			}
+		},
+		{
+			"file": "js/vrControls.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "vrControls.js"
+			}
+		},
+		{
+			"file": "/E/Games/Rift NPAPI/vr.js-master/examples/threejs_boxes_demo.html",
+			"settings":
+			{
+				"buffer_size": 9149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/www/webgl/first_person.js",
+			"settings":
+			{
+				"buffer_size": 15155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/www/webgl/index.html",
+			"settings":
+			{
+				"buffer_size": 2708,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/www/webgl/lesson1.html",
+			"settings":
+			{
+				"buffer_size": 1025,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vendor/vr.js/controls/OculusRiftControls.js",
+			"settings":
+			{
+				"buffer_size": 4174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/three.js/build/three.js",
+			"settings":
+			{
+				"buffer_size": 839651,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/vr.js/effects/OculusRiftEffect.js",
+			"settings":
+			{
+				"buffer_size": 4607,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/www/ThreeJSRift/vendor/three.js/build/three.min.js",
+		"/E/www/ThreeJSRift/js/oculusbridge.js",
+		"/E/www/ThreeJSRift/vendor/three.js/Three.js",
+		"/E/www/webgl/three.min.js",
+		"/E/www/webgl/index.html",
+		"/E/www/webgl/lesson1.js",
+		"/E/www/newvandal/sites/all/themes/vandal/css/style.css",
+		"/E/www/vandal.txt",
+		"/E/www/newvandal/sites/all/themes/vandal/template.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/user-register-form.tpl.php",
+		"/E/www/newvandal/basetheme/css/style.css",
+		"/E/www/newvandal/sites/all/themes/vandal/js/script.js",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/page--my-videos.tpl.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/html.tpl.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/node--my-photos.tpl.php",
+		"/E/www/grunttest/package.json",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/node--my-videos.tpl.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/page.tpl.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/block.tpl.php",
+		"/E/www/newvandal/modules/node/node.module",
+		"/E/www/newvandal/sites/all/themes/zen/template.php",
+		"/E/www/newvandal/sites/all/themes/vandal/vandal.info",
+		"/E/www/newvandal/basetheme/css/main.css",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/user-registration-form.tpl.php",
+		"/E/www/newvandal/sites/all/modules/views/theme/views-view-unformatted.tpl.php",
+		"/E/www/newvandal/sites/all/themes/zen/templates/block.tpl.php",
+		"/E/www/system/models/entity.js",
+		"/E/www/newvandal/sites/all/modules/video/libraries/phpvideotoolkit/phpvideotoolkit.php5.php",
+		"/E/www/newvandal/index.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/page--my-photos.tpl.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/page--blog.tpl.php",
+		"/E/Games/RiftMax/URLVideos.txt",
+		"/E/www/grunttest/index.html",
+		"/E/www/newvandal/sites/all/modules/ajax_register/ajax_register.module",
+		"/E/www/newvandal/sites/all/modules/ajax_register/ajax_register.pages.inc",
+		"/E/www/newvandal/basetheme/index.html",
+		"/E/www/newvandal/sites/all/modules/views/theme/views-view.tpl.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/views-view--block.tpl.php",
+		"/C/Unity/FPS/Assets/gmcs.rsp",
+		"/C/book.epub",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/httpd.conf",
+		"/E/Downloads/vr/OculusMaximusDemo2 (1)/Readme.txt",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/node--blog-item.tpl.php",
+		"/E/www/newvandal/misc/jquery.js",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/node--blog-item.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/node--blog.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/page--blog.php",
+		"/C/Users/Samus/AppData/Local/Temp/7zO759C.tmp/VandalVyxen-2013-12-17T23-57-44.mysql",
+		"/E/Downloads/vr/elf_training_win_vr/readme.txt",
+		"/C/Users/Samus/AppData/Local/Temp/7zO3956.tmp/VandalVyxen-2013-12-17T23-57-44.mysql",
+		"/C/Users/Samus/Documents/GitHub/BeginnerGameDesign/README.md",
+		"/C/Users/Samus/Documents/GitHub/BeginnerGameDesign/IsometricPlane/isometricplane.html",
+		"/C/Users/Samus/Documents/GitHub/BeginnerGameDesign/ComponentEngine/componentengine.html",
+		"/E/Apps/Serial Text.txt",
+		"/E/Downloads/Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013/VSUlt-Nov8-2013.txt",
+		"/C/Program Files (x86)/Unity/Editor/Data/Documentation/Documentation/Components/class-Halo.html",
+		"/C/Users/Samus/Documents/GitHub/BeginnerGameDesign/HelloEngine/helloengine.html",
+		"/C/Users/Samus/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Samus/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/Games/RiftPoker/.gitignore",
+		"/E/Games/RiftPoker/ATTRIBUTIONS.txt",
+		"/C/Users/Samus/AppData/Local/Temp/7zOB9DC.tmp/READ ME !!.txt",
+		"/C/Users/Samus/AppData/Roaming/.minecraft/versions/minecrift-1.6.2-b105bike/minecrift-1.6.2-b105bike.json",
+		"/C/Program Files (x86)/Sixense Entertainment/MotionCreator 2/configuration_resources/Temp/MCE9B6B.html",
+		"/C/Program Files (x86)/Sixense Entertainment/MotionCreator 2/configuration_resources/Temp/MCED107.html",
+		"/C/Program Files (x86)/Sixense Entertainment/MotionCreator 2/configuration_resources/Temp/MCEE939.html",
+		"/C/Program Files (x86)/Sixense Entertainment/MotionCreator 2/configuration_resources/Temp/MCE76B5.html",
+		"/C/Users/Samus/Documents/GitHub/wikipediaTitleScroll/titlescroll.js",
+		"/C/Users/Samus/AppData/Roaming/.minecraft/saves/Boston/level.dat",
+		"/C/Users/Samus/AppData/Roaming/.minecraft/crash-reports/crash-2013-12-15_19.20.43-client.txt",
+		"/C/Program Files (x86)/Sixense Entertainment/MotionCreator 2/configuration_resources/Temp/MCECC68.html",
+		"/C/Program Files (x86)/Sixense Entertainment/MotionCreator 2/configuration_resources/Temp/MCE38D.html",
+		"/C/Users/Samus/AppData/Roaming/.minecraft/options.txt",
+		"/C/Users/Samus/AppData/Roaming/.minecraft/versions/1.6.4-Forge9.11.1.953/1.6.4-Forge9.11.1.953.json",
+		"/C/Users/Samus/AppData/Roaming/.minecraft/versions/1.6.4/1.6.4.json",
+		"/C/Users/Samus/AppData/Roaming/.minecraft/saves/Imperial City/level.dat",
+		"/C/Program Files (x86)/Unity/Editor/Data/Documentation/Documentation/Components/class-Transform.html",
+		"/C/Program Files (x86)/Unity/Editor/Data/Documentation/Documentation/Components/class-BoxCollider.html",
+		"/C/Users/Samus/AppData/Roaming/CtrlAltStudio Viewer/kogsworth_resident/RevRob Beerbaum.txt",
+		"/C/Users/Samus/AppData/Local/Autodesk/3dsMax/2014 - 64bit/ENU/3dsmax.ini",
+		"/E/Apps/Install Text.txt",
+		"/E/www/composer/test.php",
+		"/C/wamp/bin/apache/apache2.4.4/bin/php.ini",
+		"/C/wamp/logs/apache_error.log",
+		"/C/wamp/bin/php/php5.4.12/php.ini",
+		"/E/www/composer/info.php",
+		"/E/www/newvandal/sites/all/modules/contrib/README.txt",
+		"/E/www/newvandal/sites/all/modules/contrib/.htaccess",
+		"/C/Users/Samus/AppData/Local/Temp/7zO1625.tmp/BUILD.WINDOWS.txt",
+		"/E/www/newvandal/ffmpeg/myfile.txt",
+		"/E/www/composer/composer.json",
+		"/E/www/newvandal/modules/field/field.info.class.inc",
+		"/E/www/newvandal/sites/default/settings.php",
+		"/E/Downloads/VandalVyxen-2013-10-28T20-22-33.mysql (1)",
+		"/E/Downloads/vandal (1).txt",
+		"/E/www/newvandal/sites/all/themes/vandal/theme-settings.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/region--footer.tpl.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/node--box.tpl.php",
+		"/C/Unity/FPS/Assets/PickupDrop.js",
+		"/E/Games/Unity Plugins/OculusUnityIntegration/ReleaseNotes.txt",
+		"/C/Users/Samus/AppData/Local/Temp/fz3temp-1/settings.php",
+		"/C/Users/Samus/AppData/Local/Temp/7zE6F48.tmp/VandalVyxen-2013-10-28T20-22-33.mysql (1)",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/node.tpl.php",
+		"/E/www/newvandal/sites/all/themes/vandal/templates/node-box.tpl.php",
+		"/E/www/newvandal/sites/all/themes/zen/templates/node.tpl.php",
+		"/C/wamp/bin/apache/Apache2.4.4/bin/php.ini",
+		"/C/wamp/vhosts/readme.txt",
+		"/E/www/newvandal/sites/all/themes/zen/templates/html.tpl.php",
+		"/E/www/newvandal/sites/all/themes/vandal/css/styles.css",
+		"/C/Users/Samus/AppData/Local/Temp/6779f601-27aa-4689-a3f2-ceec2ecaf5c7/settings.php",
+		"/E/www/newvandal/sites/all/themes/zen/STARTERKIT/README.txt",
+		"/E/www/zen/README-FIRST.txt",
+		"/C/Users/Samus/AppData/Local/Temp/7zE6E89.tmp/README-FIRST.txt",
+		"/E/www/amicalerepo/basetheme/index.html",
+		"/E/www/amicalerepo/basetheme/css/style.css",
+		"/E/www/amicalerepo/basetheme/css/icons/style.css",
+		"/C/Users/Samus/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/E/Downloads/IcoMoon Session.json",
+		"/E/www/amicalerepo/basetheme/css/icons/index.html",
+		"/E/www/amicale/basetheme/index.html",
+		"/E/www/amicale/basetheme/css/style.css",
+		"/E/Games/OSGrid/bin/Regions/Regions.ini",
+		"/C/Users/Samus/AppData/Local/Temp/fe837e5c-2ffc-42f4-ac54-531789eeab7f/newsletter.php",
+		"/E/Games/OSGrid/bin/config-include/GridCommon.ini",
+		"/E/Games/OSGrid/bin/OpenSim.ini",
+		"/C/Unity/FPS/Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js",
+		"/E/www/hq2/themes/default/css/style.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\www\\newvandal\\sites\\all\\modules\\ajax_register",
+			"E:\\www\\newvandal",
+			"C:\\wamp\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".matrixRotationWorld",
+			"_this",
+			"render(",
+			"setRot",
+			"setFromE",
+			"makeRotation",
+			"setEulerFromQuaternion",
+			"time =",
+			"objects",
+			"objects =",
+			"controls",
+			"this.currentScene",
+			"this.",
+			"scene",
+			"this.onRen",
+			"camera",
+			"this.",
+			"glo",
+			"scene",
+			"this.options.global",
+			"window",
+			"riftCam",
+			"effect",
+			"effects",
+			"bodyaxis",
+			"bridgeori",
+			"three.js/build/",
+			"camera =",
+			"camera",
+			"riftCam",
+			"DOMe",
+			"DOM",
+			"renderer",
+			"riftCam",
+			"renderer = ",
+			"riftCam",
+			"Camera",
+			"Camrea",
+			"0",
+			"|",
+			".block-menu:not(#block-menu-menu-social-media-icons)",
+			":not(",
+			".block-menu",
+			".block-menu'",
+			".block-menu",
+			".block-system.block-menu",
+			"#block-menu-menu-social-media-icons",
+			".block-menu",
+			"url(",
+			"yourtheme",
+			"my videos",
+			"title",
+			"hover",
+			"MENU",
+			".title",
+			"view-content",
+			".block-register",
+			"Create new account",
+			".menu",
+			"block-menu",
+			"menu",
+			"#block-system-main-menu",
+			".block-menu",
+			"header ",
+			"healthquest",
+			"1000",
+			"1000MB",
+			"jquery",
+			"Submitted by",
+			"my videos",
+			"!!</",
+			"my videos",
+			"stage",
+			"6px",
+			"40px",
+			"after",
+			"7",
+			"webcam",
+			"6",
+			"store",
+			"aboutme",
+			"blog",
+			"4",
+			"photo",
+			"video",
+			"home",
+			"vide",
+			"vars",
+			"jump",
+			"getTilePos",
+			"game.$el",
+			"camera",
+			"speed: ",
+			"(position.",
+			"getTile(",
+			"getTile",
+			"position",
+			"getPositio",
+			"getPosi",
+			"camera",
+			"right",
+			"stopLoop",
+			"camera",
+			"Map =",
+			"module.debug",
+			"_framesFps",
+			"* deltaTime * character.speed",
+			"*",
+			"this",
+			"Date.",
+			"_objects",
+			"0.2",
+			"_stuckCounter",
+			"108",
+			"monster",
+			"changeSpr",
+			"gravity",
+			"sprites:",
+			"monster",
+			"monsterw",
+			"monster",
+			"hero-",
+			"character-",
+			".width",
+			"game.options.width",
+			"Math.floor",
+			"hero",
+			" object."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"`drupal723_stage",
+			"vandal"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/world.js",
+					"settings":
+					{
+						"buffer_size": 6085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "world.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "threejs_boxes_demo.html",
+					"settings":
+					{
+						"buffer_size": 9275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1052,
+								1052
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 673.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/worldManager.js",
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"auto_name": "worldManager.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/vrControls.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "vrControls.js",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/Games/Rift NPAPI/vr.js-master/examples/threejs_boxes_demo.html",
+					"settings":
+					{
+						"buffer_size": 9149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 403.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/E/www/webgl/first_person.js",
+					"settings":
+					{
+						"buffer_size": 15155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/E/www/webgl/index.html",
+					"settings":
+					{
+						"buffer_size": 2708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2692,
+								2692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 614.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/E/www/webgl/lesson1.html",
+					"settings":
+					{
+						"buffer_size": 1025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "vendor/vr.js/controls/OculusRiftControls.js",
+					"settings":
+					{
+						"buffer_size": 4174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "vendor/three.js/build/three.js",
+					"settings":
+					{
+						"buffer_size": 839651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76122,
+								76122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 80944.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "vendor/vr.js/effects/OculusRiftEffect.js",
+					"settings":
+					{
+						"buffer_size": 4607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 148.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ocu",
+				"vendor/vr.js/controls/OculusRiftControls.js"
+			],
+			[
+				"style",
+				"newvandal/sites/all/themes/vandal/css/style.css"
+			],
+			[
+				"main.css",
+				"newvandal/basetheme/css/main.css"
+			],
+			[
+				"vanda",
+				"/E/www/vandal.txt"
+			],
+			[
+				"viewtpl.php",
+				"newvandal/sites/all/modules/views/theme/views-view-unformatted.tpl.php"
+			],
+			[
+				"blocktpl",
+				"newvandal/sites/all/themes/zen/templates/block.tpl.php"
+			],
+			[
+				"view-view",
+				"newvandal/sites/all/modules/views/theme/views-view.tpl.php"
+			],
+			[
+				"settings",
+				"sites/default/settings.php"
+			],
+			[
+				"css",
+				"css/style.css"
+			],
+			[
+				"services.yml",
+				"core/core.services.yml"
+			],
+			[
+				"config.yml",
+				"core/modules/config/config.info.yml"
+			],
+			[
+				"html.html.",
+				"core/modules/system/templates/html.html.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/www/angulardemo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true
+}
